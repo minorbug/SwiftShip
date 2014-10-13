@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8CF7AC1-C5A6-46C3-B522-45001DE4BE1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftShip</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>639AA80EA4C932CC5C9563FFE696189641EB2B04</key>
+		<string>https://github.com/minorbug/SwiftShip.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftShip.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>639AA80EA4C932CC5C9563FFE696189641EB2B04</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/minorbug/SwiftShip.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>639AA80EA4C932CC5C9563FFE696189641EB2B04</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>639AA80EA4C932CC5C9563FFE696189641EB2B04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftShip</string>
+		</dict>
+	</array>
+</dict>
+</plist>
